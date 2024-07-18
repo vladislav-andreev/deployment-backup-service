@@ -1,0 +1,15 @@
+C:\Users\Vlad\source\repos\DeploymentBackUpService\DeploymentBackUpService\bin\Debug\net7.0\DeploymentBackUpService.exe
+C:\Users\Vlad\source\repos\DeploymentBackUpService\DeploymentBackUpService\bin\Debug\net7.0\DeploymentBackUpService.deps.json
+C:\Users\Vlad\source\repos\DeploymentBackUpService\DeploymentBackUpService\bin\Debug\net7.0\DeploymentBackUpService.runtimeconfig.json
+C:\Users\Vlad\source\repos\DeploymentBackUpService\DeploymentBackUpService\bin\Debug\net7.0\DeploymentBackUpService.dll
+C:\Users\Vlad\source\repos\DeploymentBackUpService\DeploymentBackUpService\bin\Debug\net7.0\DeploymentBackUpService.pdb
+C:\Users\Vlad\source\repos\DeploymentBackUpService\DeploymentBackUpService\obj\Debug\net7.0\DeploymentBackUpService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\DeploymentBackUpService\DeploymentBackUpService\obj\Debug\net7.0\DeploymentBackUpService.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\DeploymentBackUpService\DeploymentBackUpService\obj\Debug\net7.0\DeploymentBackUpService.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\DeploymentBackUpService\DeploymentBackUpService\obj\Debug\net7.0\DeploymentBackUpService.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\DeploymentBackUpService\DeploymentBackUpService\obj\Debug\net7.0\DeploymentBackUpService.sourcelink.json
+C:\Users\Vlad\source\repos\DeploymentBackUpService\DeploymentBackUpService\obj\Debug\net7.0\DeploymentBackUpService.dll
+C:\Users\Vlad\source\repos\DeploymentBackUpService\DeploymentBackUpService\obj\Debug\net7.0\refint\DeploymentBackUpService.dll
+C:\Users\Vlad\source\repos\DeploymentBackUpService\DeploymentBackUpService\obj\Debug\net7.0\DeploymentBackUpService.pdb
+C:\Users\Vlad\source\repos\DeploymentBackUpService\DeploymentBackUpService\obj\Debug\net7.0\DeploymentBackUpService.genruntimeconfig.cache
+C:\Users\Vlad\source\repos\DeploymentBackUpService\DeploymentBackUpService\obj\Debug\net7.0\ref\DeploymentBackUpService.dll
